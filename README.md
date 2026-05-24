@@ -34,7 +34,7 @@ churn-part4-api/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/churn-part4-api.git
+git clone https://github.com/tanmay2729/churn-part4-api.git
 cd churn-part4-api
 
 # 2. Create and activate virtual environment
