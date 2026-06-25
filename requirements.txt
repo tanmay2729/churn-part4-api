@@ -4,5 +4,5 @@ uvicorn
 joblib
 numpy
 pandas
-scikit-learn==1.8.0
+scikit-learn
 pydantic
